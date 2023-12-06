@@ -20,4 +20,4 @@ Disclaimer
 This script is intended for educational and research purposes only. Unauthorized access or use of this script against systems without explicit permission is illegal and unethical.
 
 AUTHOR
-<yusufdalbudak>
+$yusufdalbudak
